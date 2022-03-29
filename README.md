@@ -1,6 +1,5 @@
 # shell.hta
 
-<!-- HOST COMPROMISSE-->
 <html>
   <head>
     <title>Hello World</title>
